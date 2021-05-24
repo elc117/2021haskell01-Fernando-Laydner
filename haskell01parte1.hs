@@ -35,7 +35,6 @@ isVerb :: String -> Bool
 isVerb x = (last x) == 'r'
 
 --8
-lista = ['a', 'e', 'i', 'o', 'u']
 isVowel :: Char -> Bool
 isVowel x = elem x "aeiou"
 

@@ -1,6 +1,8 @@
 -- Prática 01 de Haskell - Parte 1
 -- Nome: Fernando Kalikosque Laydner Júnior
 
+module Testando where
+
 square :: Int -> Int
 square x = x^2
 
